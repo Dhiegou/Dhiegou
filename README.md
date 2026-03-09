@@ -1,16 +1,50 @@
-## Hi there 👋
+# Oi! Eu sou o Dhiego 🚀
 
-<!--
-**Dhiegou/Dhiegou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação (FIAP)** 
+💻 Foco em **Desenvolvimento Web Front-end** 🎨 Apaixonado por tecnologia, design e inovação  
+📍 São Paulo – SP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 💡 Sobre mim
+
+Sou desenvolvedor front-end em formação, motivado por transformar ideias em experiências digitais significativas. Combino habilidades técnicas e criatividade para entregar interfaces modernas e funcionais.
+
+Meu objetivo é crescer como desenvolvedor web, contribuindo em projetos que gerem impacto real e aprendizado constante.
+
+---
+
+### 💻 Tecnologias Utilizadas
+
+**Front-end:**  
+React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · GSAP
+
+**Back-end:**  
+Node.js · Spring Boot · Java · REST APIs
+
+**Banco de Dados & DevOps:**  
+Git · GitHub · Postman
+
+**Design & Ferramentas:**  
+Figma · VS Code
+
+---
+
+### 📬 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiegoudev)
+
+✨ Obrigado por visitar meu perfil! 🚀
