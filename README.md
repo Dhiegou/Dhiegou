@@ -1,7 +1,7 @@
-# Oi! Eu sou o Dhiego 🚀
+# Olá! Eu sou o Dhiego 🚀
 
 🎓 Estudante de **Sistemas de Informação (FIAP)** 
-💻 Foco em **Desenvolvimento Web Front-end** 🎨 Apaixonado por tecnologia, design e inovação  
+💻 Foco em **Desenvolvimento Web** 🎨 Apaixonado por tecnologia, design e inovação  
 📍 São Paulo – SP
 
 ---
@@ -21,7 +21,7 @@
 
 ### 💡 Sobre mim
 
-Sou desenvolvedor front-end em formação, motivado por transformar ideias em experiências digitais significativas. Combino habilidades técnicas e criatividade para entregar interfaces modernas e funcionais.
+Sou desenvolvedor web em formação, motivado por transformar ideias em experiências digitais significativas. Combino habilidades técnicas e criatividade para entregar interfaces modernas e funcionais.
 
 Meu objetivo é crescer como desenvolvedor web, contribuindo em projetos que gerem impacto real e aprendizado constante.
 
@@ -36,15 +36,7 @@ React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · GSAP
 Node.js · Spring Boot · Java · REST APIs
 
 **Banco de Dados & DevOps:**  
-Git · GitHub · Postman
+Git · GitHub · Postman · SQL · MariaDB
 
 **Design & Ferramentas:**  
-Figma · VS Code
-
----
-
-### 📬 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiegoudev)
-
-✨ Obrigado por visitar meu perfil! 🚀
+Figma · VS Code · Antigravity
