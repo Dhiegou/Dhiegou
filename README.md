@@ -28,19 +28,19 @@
 
 ### 💡 Sobre mim
 
-Sou desenvolvedor front-end em formação e estagiário na Ellos Design, onde levo sites do briefing com o cliente até a publicação: wireframe, design system e implementação responsiva.
+Sou desenvolvedor Front-End em formação e estagiário na Ellos Design, onde levo sites do briefing com o cliente até a publicação, fazendo desde o wireframe e design system até a implementação responsiva.
 
-No dia a dia, trabalho com um fluxo orientado a especificação: o Claude atua como arquiteto e auditor e escreve PRDs técnicos com critérios de verificação, e um agente executor implementa. Eu cuido da base de regras e contexto que os agentes seguem, valido a estrutura antes e testo a entrega depois.
+No dia a dia, trabalho com um fluxo orientado a especificação. O Claude atua como arquiteto e auditor e escreve PRDs técnicos com critérios de verificação, e um agente executor implementa. Eu cuido da base de regras e contexto que os agentes seguem, valido a estrutura antes e testo a entrega depois.
 
 Meu objetivo é crescer unindo duas coisas que me movem: experiências web interativas, inclusive em 3D, e engenharia de software com IA.
 
 ---
 
-### 🏁 Projeto em destaque: [SpeedX](https://github.com/Dhiegou/SpeedX)
-
 Projeto de Iniciação Científica do meu grupo na FIAP, que ficou entre os **32 melhores grupos de IC** e foi para o **NEXT 2026**.
 
-- **Smart Helmet** (em equipe): copiloto de voz com IA para corrida em simulador, 100% local e offline. Usa a física do carro medida na telemetria do jogo, um modelo bayesiano do piloto e 30 filtros de Kalman que aprendem a pessoa em duas voltas, com um LLM local (Qwen via Ollama) redigindo as falas.
+## [SpeedX](https://github.com/Dhiegou/SpeedX
+
+- **Smart Helmet** (em equipe): copiloto de voz com IA para corrida em simulador, 100% local e offline. Usa a física do carro medida na telemetria do jogo, um modelo bayesiano do piloto e 30 filtros de Kalman que aprendem com a pessoa em duas voltas, com um LLM local (Qwen via Ollama) redigindo as falas.
 - **Plataforma do evento** (minha parte): inscrição por QR code e classificação ao vivo para mais de 2.000 participantes, em Next.js, TypeScript e PostgreSQL. Construída com Claude Code a partir de PRD e documento de arquitetura, com mais de 700 testes automatizados.
 
 ---
